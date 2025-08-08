@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Swaraj Bendge
 
-<!--
-**swarajbendge/swarajbendge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+Passionate developer, lifelong learner, and tech enthusiast. I enjoy building impactful software and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🏫 College
+- Bachelor of Engineering in Computer Science
+- Chandigarh University, Graduation Year: 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C/C++, JavaScript
+- **Web:** HTML5, CSS3, node.js, express.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, MySQLworkbench, PowerBI
+- **Others:** OOPs, DBMS, Computer Networks, Operating System
+
+## My Coding Profiles
+- [LeetCode](https://leetcode.com/u/swaraj_bendge/) : Solved 450+ DSA problems, Contest rating - 1522(max)
+- [GFG](https://www.geeksforgeeks.org/user/swarajbendge/) : Solved 200+ DSA problems
+- [CodeChef](https://www.codechef.com/users/swarajbendge07) : 2 ⭐ Coder with Contest rating - 1420(max)
+
+## 📫 Contact
+- [Email](mailto:bendgeswaraj2003@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/swaraj-bendge-a24555226/)
+- [Twitter](https://x.com/Swaraj79358447)
+
+---
+
+*Feel free to connect or check out my repositories below!*
