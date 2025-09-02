@@ -17,7 +17,7 @@ Passionate developer, lifelong learner, and tech enthusiast. I enjoy building im
 ## My Coding Profiles
 - [LeetCode](https://leetcode.com/u/swarajbendge2003/) : Solved 500+ DSA problems, Contest rating - 1538(max)
 - [GFG](https://www.geeksforgeeks.org/user/swarajbendge/) : Solved 200+ DSA problems
-- [CodeChef](https://www.codechef.com/users/swarajbendge07) : 2 ⭐ Coder with Contest rating - 1450(max)
+- [CodeChef](https://www.codechef.com/users/swarajbendge07) : 2 ⭐ Coder with Contest rating - 1472(max)
 
 ## 📫 Contact
 - [Email](mailto:bendgeswaraj2003@gmail.com)
