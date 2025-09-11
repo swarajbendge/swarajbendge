@@ -26,7 +26,8 @@ Passionate developer, lifelong learner, and tech enthusiast. I enjoy building im
 
 ---
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swarajbendge/&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=swarajbendge&color=blue)
+
 
 
 *Feel free to connect or check out my repositories below!*
