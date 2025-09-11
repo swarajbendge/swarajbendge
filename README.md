@@ -26,4 +26,7 @@ Passionate developer, lifelong learner, and tech enthusiast. I enjoy building im
 
 ---
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swarajbendge/&title=Profile%20Views)
+
+
 *Feel free to connect or check out my repositories below!*
