@@ -1,23 +1,23 @@
 # Hi there 👋, I'm Swaraj Bendge
 
 ## 👨‍🎓 About Me
-Passionate developer, lifelong learner, and tech enthusiast. I enjoy building impactful software and exploring new technologies.
+Passionate developer, lifelong learner, and tech enthusiast. I love Problem-solving. Currently exploring Backend in depth and System Design.
 
 ## 🏫 College
 - Bachelor of Engineering in Computer Science
-- Chandigarh University, Graduation Year: 2025
+- Graduation Year: 2025
 
 ## 🛠️ Skills
 - **Languages:** C/C++, JavaScript
 - **Web:** HTML5, CSS3, node.js, express.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, MySQLworkbench, PowerBI
-- **Others:** OOPs, DBMS, Computer Networks, Operating System
+//- **Others:** OOPs, DBMS, Computer Networks, Operating System //
 
 ## My Coding Profiles
-- LeetCode : Solved 550+ DSA problems, Contest rating - 1630(max)
+- LeetCode : Solved 850+ DSA problems, Contest rating - 1991(max)
 - GFG : Solved 250+ DSA problems
-- CodeChef : 2 ⭐ Coder with Contest rating - 1511(max)
+- CodeChef : 3 ⭐ Coder
 
 ## 📫 Contact
 - [Email](mailto:bendgeswaraj2003@gmail.com)
